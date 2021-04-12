@@ -1,3 +1,5 @@
 By using the bot you agree that we log the commands you send to the bot.
-If you have any questions regarding this, contact eforevertoo@outlook.fr with your Discord Username and Tag with your Discord user ID.
-We do not keep who posted the command.
+We do not log who posted the command.
+
+You may be banned from using the bot if you bypass the security of the bot.
+This said, if you are banned do not use an alt to bypass the ban.
