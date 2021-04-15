@@ -1,4 +1,4 @@
-Terms of usage.
+Terms of use.
 
 By using the bot you agree that we log the commands you send to the bot.
 We do not log who posted the command.
@@ -11,3 +11,5 @@ You may not copy the bot or your use of the bot may be restricted.
 If you want to the the bot's Logo/Brand contact forevertoo at eforevertoo@outlook.fr
 
 The images the bot ("FindThisImage") posts belongs to their respective owner.
+
+The terms of use may be updated at some points.
