@@ -1,5 +1,13 @@
+Terms of usage.
+
 By using the bot you agree that we log the commands you send to the bot.
 We do not log who posted the command.
 
 You may be banned from using the bot if you bypass the security of the bot.
 This said, if you are banned do not use an alt to bypass the ban.
+
+The bot was made by forevertoo, all rights reserved.
+You may not copy the bot or your use of the bot may be restricted.
+If you want to the the bot's Logo/Brand contact forevertoo at eforevertoo@outlook.fr
+
+The images the bot ("FindThisImage") posts belongs to their respective owner.
