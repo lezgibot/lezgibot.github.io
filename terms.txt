@@ -12,4 +12,9 @@ If you want to the the bot's Logo/Brand contact forevertoo at eforevertoo@outloo
 
 The images the bot ("FindThisImage") posts belongs to their respective owner.
 
+If you add the bot to a Discord server ("Guild") it should not farm bots.
+That means it should not be added to a server with more than 100 bots.
+
+The bot may leave some servers for security or abuse reasons and stay in others.
+
 The terms of use may be updated at some points.
